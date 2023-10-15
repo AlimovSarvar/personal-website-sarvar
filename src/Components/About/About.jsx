@@ -3,7 +3,7 @@ import "./About.scss";
 import about__img from '../../img/img__about.jpg'
 function About() {
   return (
-    <div className="About">
+    <div id="2" className="About">
       <div className="container">
         <div className="about__inner">
           <div className="about__left">
